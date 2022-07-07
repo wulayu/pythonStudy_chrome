@@ -1,1 +1,1 @@
-用于解决webdrive.chrome()的path问题
+用于解决webdriver.Chrome()的path问题
