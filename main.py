@@ -45,3 +45,5 @@ with ThreadPoolExecutor(max_workers=32) as pool:
     for img in imgs:
         pic_url = img.get_attribute('src')
         pool.submit(download_picture, pic_url)
+
+#   for test
